@@ -1,0 +1,6 @@
+{
+  "name": "সালাত হিসাব ও কাজা ক্যালকুলেটর - Salah Life Tracker",
+  "description": "বয়স অনুযায়ী লাইফটাইম সালাত হিসাব, কাজা নামাজ ট্র্যাকার, দৈনিক ওয়াক্ত কাউন্টডাউন এবং রিকভারি রুটিন ক্যালকুলেটর।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
